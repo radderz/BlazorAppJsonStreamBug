@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppJsonStreamBug", "BlazorAppJsonStreamBug\BlazorAppJsonStreamBug\BlazorAppJsonStreamBug.csproj", "{6A23D306-28B6-44F8-9800-9E3689E3C6B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppJsonStreamBug.Client", "BlazorAppJsonStreamBug\BlazorAppJsonStreamBug.Client\BlazorAppJsonStreamBug.Client.csproj", "{1E14C14B-0618-4B8D-9C25-3CFA2F7D73E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppJsonStreamBug.AppHost", "BlazorAppJsonStreamBug.AppHost\BlazorAppJsonStreamBug.AppHost.csproj", "{B6B98AF9-AAD4-44D4-A6F2-A64B5F8AB96E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppJsonStreamBug.ServiceDefaults", "BlazorAppJsonStreamBug.ServiceDefaults\BlazorAppJsonStreamBug.ServiceDefaults.csproj", "{DC006DF2-AC1A-4B60-AA6A-FDF9ED635C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A23D306-28B6-44F8-9800-9E3689E3C6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A23D306-28B6-44F8-9800-9E3689E3C6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A23D306-28B6-44F8-9800-9E3689E3C6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A23D306-28B6-44F8-9800-9E3689E3C6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E14C14B-0618-4B8D-9C25-3CFA2F7D73E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E14C14B-0618-4B8D-9C25-3CFA2F7D73E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E14C14B-0618-4B8D-9C25-3CFA2F7D73E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E14C14B-0618-4B8D-9C25-3CFA2F7D73E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B98AF9-AAD4-44D4-A6F2-A64B5F8AB96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B98AF9-AAD4-44D4-A6F2-A64B5F8AB96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B98AF9-AAD4-44D4-A6F2-A64B5F8AB96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B98AF9-AAD4-44D4-A6F2-A64B5F8AB96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC006DF2-AC1A-4B60-AA6A-FDF9ED635C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC006DF2-AC1A-4B60-AA6A-FDF9ED635C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC006DF2-AC1A-4B60-AA6A-FDF9ED635C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC006DF2-AC1A-4B60-AA6A-FDF9ED635C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB59A31D-DBE8-4EC0-8474-BED97ED89D50}
+	EndGlobalSection
+EndGlobal
